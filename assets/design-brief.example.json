@@ -1,0 +1,480 @@
+{
+  "meta": {
+    "input_type": "B",
+    "fidelity_mode": "faithful",
+    "aspect_ratio": "3:4",
+    "language": "zh",
+    "text_mode": "full",
+    "layout_variant": "classic"
+  },
+  "title": {
+    "zh": "户外婚礼花艺装置设计方案",
+    "en": "Garden Wedding Floral Installation"
+  },
+  "concept": {
+    "style_keywords": [
+      {
+        "zh": "自然花园",
+        "en": "natural garden"
+      },
+      {
+        "zh": "浅黄暖调",
+        "en": "soft warm yellow"
+      },
+      {
+        "zh": "半写实手绘",
+        "en": "observational hand sketch"
+      }
+    ],
+    "mood": {
+      "zh": "松弛、温暖的花园仪式",
+      "en": "an intimate, warm garden ceremony"
+    },
+    "description": [
+      {
+        "zh": "香槟黄与米白布帘交叠。",
+        "en": "Champagne and ivory drapes overlap."
+      },
+      {
+        "zh": "木框承接错落的簇生花艺。",
+        "en": "Timber frames carry loose floral clusters."
+      },
+      {
+        "zh": "橙色纸花点亮草坪仪式区。",
+        "en": "Orange paper flowers accent the lawn ceremony."
+      }
+    ],
+    "reference_style": {
+      "medium": {
+        "zh": "浅米水彩纸，细针管笔轮廓与柔和水彩晕染，标题有手写笔锋",
+        "en": "Warm ivory watercolor paper, fine pen outlines, gentle washes and a brush-lettered title"
+      },
+      "layout": {
+        "zh": "标题靠顶，主图占上半幅，左说明右引线；下区左侧两行小图，右侧纵列细节，底部横排样块",
+        "en": "Top title and a large upper hero, with a left note and right leaders; two rows of small views below left, stacked details below right and swatches along the bottom"
+      }
+    }
+  },
+  "scene": {
+    "setting": {
+      "zh": "草坪边缘，背景为较疏的乔灌木",
+      "en": "A lawn edge with open trees and shrubs in the background"
+    },
+    "zone": {
+      "zh": "户外仪式区，木框装置面向座席与入场通道",
+      "en": "An outdoor ceremony installation facing guest seating and the approach aisle"
+    },
+    "time_and_lighting": {
+      "zh": "明亮的漫射自然日光，地面有浅淡的软影",
+      "en": "Bright diffused daylight and soft ground shadows"
+    }
+  },
+  "structure": {
+    "type": {
+      "zh": "由左低、中高、右次高木框组成的错层门架",
+      "en": "Staggered timber portals with a low left bay, tall central bay and mid-height right bay"
+    },
+    "material": {
+      "zh": "自然棕色木框与低矮灰色底座",
+      "en": "Natural brown timber with low gray plinths"
+    },
+    "components": [
+      {
+        "zh": "竖向立柱与阶梯状横梁",
+        "en": "Uprights and stepped crossbeams"
+      },
+      {
+        "zh": "有落地接触的低矮块状底座",
+        "en": "Low plinth blocks with visible ground contact"
+      },
+      {
+        "zh": "中央横梁和右框顶部作为布艺挂点",
+        "en": "The central beam and right portal top as fabric attachment points"
+      }
+    ],
+    "dimensions": {
+      "width_mm": 6000,
+      "height_mm": 3200,
+      "depth_mm": 1200,
+      "estimated": true
+    }
+  },
+  "florals": {
+    "main": [
+      {
+        "zh": "明黄小花簇",
+        "en": "bright yellow small-flower clusters"
+      },
+      {
+        "zh": "白及米白花团",
+        "en": "white and cream flower masses"
+      }
+    ],
+    "accent": [
+      {
+        "zh": "蓝紫直立花序",
+        "en": "upright blue-violet flower spikes"
+      },
+      {
+        "zh": "浅橙小花",
+        "en": "small soft orange blooms"
+      }
+    ],
+    "foliage": [
+      {
+        "zh": "深绿垂枝与稀疏细草",
+        "en": "dark trailing greenery and sparse fine grasses"
+      }
+    ],
+    "form": {
+      "zh": "有疏有密的自然团簇，结合枝叶垂坠与细长花序",
+      "en": "Loose layered clusters with hanging greenery and slender upright spikes"
+    },
+    "placement": {
+      "zh": "主花团集中在中高框上端和左中节点，底部花簇从右框脚沿通道边缘向前延伸",
+      "en": "Major clusters sit at the tall center top and left-center joint. Low clusters extend from the right post along the aisle edge"
+    },
+    "colors": [
+      {
+        "zh": "黄、米白为主，蓝紫、橙和深绿为补色",
+        "en": "yellow and cream, accented by blue-violet, orange and deep green"
+      }
+    ]
+  },
+  "fabrics": [
+    {
+      "type": {
+        "zh": "半透轻纱与柔垂面料",
+        "en": "Light semitransparent fabric and soft drapery"
+      },
+      "color": {
+        "zh": "浅香槟黄与米白",
+        "en": "pale champagne yellow and ivory"
+      },
+      "drape": {
+        "zh": "左侧呈浅 U 形，中央长弧跨过花团下方，右端近竖垂",
+        "en": "A shallow U on the left, a longer central sweep below the flowers and a near-vertical fall at the right"
+      },
+      "fixing_points": [
+        {
+          "zh": "左低梁端与中央高梁附近",
+          "en": "the left low beam end and near the central tall beam"
+        },
+        {
+          "zh": "右框顶部",
+          "en": "the top of the right portal"
+        }
+      ]
+    }
+  ],
+  "focal_elements": [
+    {
+      "zh": "中右高处的两朵橙黄大纸艺花，右柱有一朵较小纸花呼应",
+      "en": "Two large yellow-orange paper flowers at upper center-right and a smaller echo on the far-right post"
+    }
+  ],
+  "furniture_props": [
+    {
+      "zh": "入场通道两边的实木交叉背椅，椅背有浅色纱饰",
+      "en": "Timber cross-back chairs lining the aisle, with pale fabric on the backs"
+    }
+  ],
+  "palette": [
+    {
+      "name": {
+        "zh": "奶油白",
+        "en": "warm cream"
+      },
+      "hex": "#F1E8D4"
+    },
+    {
+      "name": {
+        "zh": "香槟黄",
+        "en": "champagne yellow"
+      },
+      "hex": "#EDC75F"
+    },
+    {
+      "name": {
+        "zh": "纸花橙",
+        "en": "paper-flower orange"
+      },
+      "hex": "#D98630"
+    },
+    {
+      "name": {
+        "zh": "雾蓝",
+        "en": "dusty blue"
+      },
+      "hex": "#748BB5"
+    },
+    {
+      "name": {
+        "zh": "橄榄绿",
+        "en": "olive green"
+      },
+      "hex": "#5E7047"
+    },
+    {
+      "name": {
+        "zh": "灰紫",
+        "en": "lavender gray"
+      },
+      "hex": "#ABA0B2"
+    },
+    {
+      "name": {
+        "zh": "浅木棕",
+        "en": "light timber brown"
+      },
+      "hex": "#C7AD85"
+    }
+  ],
+  "materials_legend": [
+    {
+      "name": {
+        "zh": "木材",
+        "en": "Timber"
+      },
+      "phrase": {
+        "zh": "自然纹理",
+        "en": "Natural grain"
+      }
+    },
+    {
+      "name": {
+        "zh": "布艺",
+        "en": "Drapery"
+      },
+      "phrase": {
+        "zh": "轻盈垂坠",
+        "en": "Soft folds"
+      }
+    },
+    {
+      "name": {
+        "zh": "纸艺花",
+        "en": "Paper flower"
+      },
+      "phrase": {
+        "zh": "立体叠瓣",
+        "en": "Layered petals"
+      }
+    },
+    {
+      "name": {
+        "zh": "花材",
+        "en": "Florals"
+      },
+      "phrase": {
+        "zh": "疏密有致",
+        "en": "Loose clusters"
+      }
+    },
+    {
+      "name": {
+        "zh": "底座",
+        "en": "Plinth"
+      },
+      "phrase": {
+        "zh": "低矮块面",
+        "en": "Low block form"
+      }
+    }
+  ],
+  "callouts": [
+    {
+      "target": {
+        "zh": "中央木梁与立柱的相接处",
+        "en": "junction of the central beam and post"
+      },
+      "label": {
+        "zh": "木制框架",
+        "en": "Timber frame"
+      },
+      "subtitle": {
+        "zh": "错层构成",
+        "en": "Stepped bays"
+      }
+    },
+    {
+      "target": {
+        "zh": "右框竖垂的米白纱",
+        "en": "the vertical ivory drape on the right"
+      },
+      "label": {
+        "zh": "垂感布艺",
+        "en": "Soft drapery"
+      },
+      "subtitle": {
+        "zh": "柔和飘逸",
+        "en": "Gentle fall"
+      }
+    },
+    {
+      "target": {
+        "zh": "中右高处最显眼的橙黄纸花",
+        "en": "large orange-yellow paper blossom at upper center-right"
+      },
+      "label": {
+        "zh": "大型纸艺花",
+        "en": "Oversized paper flower"
+      },
+      "subtitle": {
+        "zh": "焦点装饰",
+        "en": "Focal accent"
+      }
+    },
+    {
+      "target": {
+        "zh": "右侧低位黄白与蓝紫混合花团",
+        "en": "low mixed yellow, white and violet flower cluster at right"
+      },
+      "label": {
+        "zh": "花艺组合",
+        "en": "Floral grouping"
+      },
+      "subtitle": {
+        "zh": "自然层次",
+        "en": "Garden layers"
+      }
+    }
+  ],
+  "views": {
+    "front": {
+      "content": {
+        "zh": "保留左右高低错层，纸花在高框右侧，黄布弧线偏左和中央",
+        "en": "Show the stepped bays, paper flowers at the tall bay’s right and yellow drape arcs across the left and center"
+      },
+      "dimensions": {
+        "width_mm": 6000,
+        "height_mm": 3200
+      }
+    },
+    "side": {
+      "content": {
+        "zh": "以右侧为观察方向，显示立柱、近竖布帘及基座附近地面花团",
+        "en": "Look from the right to show the post, near-vertical fabric and low flowers at the plinth"
+      },
+      "dimensions": {
+        "height_mm": 3200,
+        "depth_mm": 1200
+      }
+    },
+    "top": {
+      "content": {
+        "zh": "从上方标出横梁、两端落地接触、布弧和右端低花团的投影",
+        "en": "Show overhead footprints of beams, ground contacts, drape arcs and the low right flower groups"
+      },
+      "dimensions": {
+        "width_mm": 6000,
+        "depth_mm": 1200
+      }
+    },
+    "exploded": {
+      "content": {
+        "zh": "沿装配方向分离木框、布艺、上方花团和低底座，保持左右关系",
+        "en": "Separate timber, drapery, top florals and low plinths along assembly directions while keeping left/right relationships"
+      },
+      "dimensions": {}
+    }
+  },
+  "detail_zooms": [
+    {
+      "subject": {
+        "zh": "浅黄纱在木梁附近的薄折与垂弧",
+        "en": "thin folds and the curve of pale fabric beside a timber beam"
+      },
+      "title": {
+        "zh": "布艺细节",
+        "en": "Drapery detail"
+      },
+      "lines": [
+        {
+          "zh": "轻纱叠出浅折。",
+          "en": "Sheer fabric forms delicate folds."
+        },
+        {
+          "zh": "向下形成自然垂弧。",
+          "en": "The fabric falls in a soft curve."
+        }
+      ]
+    },
+    {
+      "subject": {
+        "zh": "橙黄纸花的卷边折瓣与花心",
+        "en": "curled orange-yellow paper petals and the flower center"
+      },
+      "title": {
+        "zh": "纸艺花细节",
+        "en": "Paper-flower detail"
+      },
+      "lines": [
+        {
+          "zh": "橙黄花瓣层层叠放。",
+          "en": "Orange petals overlap in layers."
+        },
+        {
+          "zh": "卷边顺着花心放射。",
+          "en": "Curled rims radiate from the center."
+        }
+      ]
+    },
+    {
+      "subject": {
+        "zh": "黄、白、蓝花序与叶材的层次",
+        "en": "layers of yellow, white and blue blooms and foliage"
+      },
+      "title": {
+        "zh": "花艺细节",
+        "en": "Floral detail"
+      },
+      "lines": [
+        {
+          "zh": "明黄小簇居前。",
+          "en": "Yellow clusters sit in front."
+        },
+        {
+          "zh": "蓝紫花序拉出高度。",
+          "en": "Blue-violet spikes add height."
+        }
+      ]
+    },
+    {
+      "subject": {
+        "zh": "木柱底部与灰色块面及草坪的关系",
+        "en": "the timber upright meeting a gray block at lawn level"
+      },
+      "title": {
+        "zh": "底座细节",
+        "en": "Plinth detail"
+      },
+      "lines": [
+        {
+          "zh": "木柱落在低矮灰座上。",
+          "en": "The timber rests on a low gray plinth."
+        },
+        {
+          "zh": "展示柱脚落地关系。",
+          "en": "Show the connection at ground level."
+        }
+      ]
+    }
+  ],
+  "inferred_fields": [
+    {
+      "path": "/structure/dimensions",
+      "reason": {
+        "zh": "使用黄金版式的示例量级，数值仅用于概念展示。",
+        "en": "Concept estimates chosen at the scale of the illustrative layout."
+      }
+    },
+    {
+      "path": "/fabrics/0/fixing_points",
+      "reason": {
+        "zh": "挂点位置由布幅走向推断，连接件尚未核实。",
+        "en": "Fixing locations follow the drape path. Hardware is unverified."
+      }
+    }
+  ]
+}
