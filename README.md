@@ -14,7 +14,7 @@
 
 ```sh
 mkdir -p .agents/skills
-git clone https://github.com/JackYang0326/halobear-skill-wedding-sketch.git \
+git clone https://github.com/HaloBear-AI/skill-wedding-sketch.git \
   .agents/skills/wedding-sketch
 ```
 
@@ -24,7 +24,7 @@ git clone https://github.com/JackYang0326/halobear-skill-wedding-sketch.git \
 
 ```sh
 mkdir -p .claude/skills
-git clone https://github.com/JackYang0326/halobear-skill-wedding-sketch.git \
+git clone https://github.com/HaloBear-AI/skill-wedding-sketch.git \
   .claude/skills/wedding-sketch
 ```
 
@@ -34,7 +34,7 @@ git clone https://github.com/JackYang0326/halobear-skill-wedding-sketch.git \
 
 ```sh
 mkdir -p .cursor/skills
-git clone https://github.com/JackYang0326/halobear-skill-wedding-sketch.git \
+git clone https://github.com/HaloBear-AI/skill-wedding-sketch.git \
   .cursor/skills/wedding-sketch
 ```
 
