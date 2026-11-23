@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "input_type": null,
+    "fidelity_mode": "faithful",
+    "aspect_ratio": "3:4",
+    "language": "zh",
+    "text_mode": "full",
+    "layout_variant": "classic"
+  },
+  "title": {
+    "zh": "",
+    "en": ""
+  },
+  "concept": {
+    "style_keywords": [
+      {
+        "zh": "",
+        "en": ""
+      }
+    ],
+    "mood": {
+      "zh": "",
+      "en": ""
+    },
+    "description": [
+      {
+        "zh": "",
+        "en": ""
+      }
+    ],
+    "reference_style": {
+      "medium": {
+        "zh": "",
+        "en": ""
+      },
+      "layout": {
+        "zh": "",
+        "en": ""
+      }
+    }
+  },
+  "scene": {
+    "setting": {
+      "zh": "",
+      "en": ""
+    },
+    "zone": {
+      "zh": "",
+      "en": ""
+    },
+    "time_and_lighting": {
+      "zh": "",
+      "en": ""
+    }
+  },
+  "structure": {
+    "type": {
+      "zh": "",
+      "en": ""
+    },
+    "material": {
+      "zh": "",
+      "en": ""
+    },
+    "components": [
+      {
+        "zh": "",
+        "en": ""
+      }
+    ],
+    "dimensions": {
+      "width_mm": null,
+      "height_mm": null,
+      "depth_mm": null,
+      "estimated": null
+    }
+  },
+  "florals": {
+    "main": [],
+    "accent": [],
+    "foliage": [],
+    "form": null,
+    "placement": null,
+    "colors": []
+  },
+  "fabrics": [
+    {
+      "type": {
+        "zh": "",
+        "en": ""
+      },
+      "color": {
+        "zh": "",
+        "en": ""
+      },
+      "drape": {
+        "zh": "",
+        "en": ""
+      },
+      "fixing_points": [
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    }
+  ],
+  "focal_elements": [],
+  "furniture_props": [],
+  "palette": [
+    {
+      "name": {
+        "zh": "",
+        "en": ""
+      },
+      "hex": ""
+    },
+    {
+      "name": {
+        "zh": "",
+        "en": ""
+      },
+      "hex": ""
+    },
+    {
+      "name": {
+        "zh": "",
+        "en": ""
+      },
+      "hex": ""
+    },
+    {
+      "name": {
+        "zh": "",
+        "en": ""
+      },
+      "hex": ""
+    },
+    {
+      "name": {
+        "zh": "",
+        "en": ""
+      },
+      "hex": ""
+    },
+    {
+      "name": {
+        "zh": "",
+        "en": ""
+      },
+      "hex": ""
+    }
+  ],
+  "materials_legend": [
+    {
+      "name": {
+        "zh": "",
+        "en": ""
+      },
+      "phrase": {
+        "zh": "",
+        "en": ""
+      }
+    }
+  ],
+  "callouts": [
+    {
+      "target": {
+        "zh": "",
+        "en": ""
+      },
+      "label": {
+        "zh": "",
+        "en": ""
+      },
+      "subtitle": null
+    },
+    {
+      "target": {
+        "zh": "",
+        "en": ""
+      },
+      "label": {
+        "zh": "",
+        "en": ""
+      },
+      "subtitle": null
+    },
+    {
+      "target": {
+        "zh": "",
+        "en": ""
+      },
+      "label": {
+        "zh": "",
+        "en": ""
+      },
+      "subtitle": null
+    }
+  ],
+  "views": {
+    "front": {
+      "content": {
+        "zh": "",
+        "en": ""
+      },
+      "dimensions": {
+        "width_mm": null,
+        "height_mm": null
+      }
+    },
+    "side": {
+      "content": {
+        "zh": "",
+        "en": ""
+      },
+      "dimensions": {
+        "height_mm": null,
+        "depth_mm": null
+      }
+    },
+    "top": {
+      "content": {
+        "zh": "",
+        "en": ""
+      },
+      "dimensions": {
+        "width_mm": null,
+        "depth_mm": null
+      }
+    },
+    "exploded": {
+      "content": {
+        "zh": "",
+        "en": ""
+      },
+      "dimensions": {}
+    }
+  },
+  "detail_zooms": [
+    {
+      "subject": {
+        "zh": "",
+        "en": ""
+      },
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "lines": [
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    {
+      "subject": {
+        "zh": "",
+        "en": ""
+      },
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "lines": [
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    },
+    {
+      "subject": {
+        "zh": "",
+        "en": ""
+      },
+      "title": {
+        "zh": "",
+        "en": ""
+      },
+      "lines": [
+        {
+          "zh": "",
+          "en": ""
+        }
+      ]
+    }
+  ],
+  "inferred_fields": []
+}
